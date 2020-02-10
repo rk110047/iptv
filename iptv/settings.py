@@ -26,7 +26,7 @@ SECRET_KEY = "mnbvcxzaqwertyuioplkjhgfds"
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '185.94.77.112', 
+    '185.94.77.114', 
     'iptv-server-dev.us-west-2.elasticbeanstalk.com',
     '127.0.0.1', 
     'localhost'
